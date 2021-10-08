@@ -1,0 +1,8 @@
+
+alias als="ls -alF"
+alias gitpush="git push origin master --tags"
+alias gitadd="git add -A"
+alias gitcommit="git commit"
+alias gitALL="gitadd;gitcommit;gitpush"
+alias gitupd="git pull origin master"
+
