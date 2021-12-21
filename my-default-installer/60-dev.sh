@@ -4,7 +4,7 @@
 sudo apt install python3 gcc --yes
 
 #AVR related
-sudo apt install  gcc-avr binutils binutils-avr avrdude avr-libc  --yes
+sudo apt install  gcc-avr binutils binutils-avr avrdude avr-libc gdb-avr  --yes
 
 #GB dev related
 sudo apt install  sdcc visualboyadvance --yes
