@@ -8,6 +8,7 @@ git clone https://github.com/AlanFromJapan/alanWebSites.git ~/Git/alanWebSites
 git clone https://github.com/AlanFromJapan/Gameboy.git ~/Git/Gameboy
 git clone https://github.com/AlanFromJapan/pcb-design.git ~/Git/pcb-design
 git clone https://github.com/AlanFromJapan/linux-experiments.git ~/Git/linux-experiments
+git clone https://github.com/AlanFromJapan/MTGA-experiments.git ~/Git/MTGA-experiments
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
