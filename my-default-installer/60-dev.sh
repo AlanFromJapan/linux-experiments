@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #basics
-sudo apt install python3 python3-venv python3-pip gcc --yes
+sudo apt install python3 python3-venv python3-pip gcc sqlitebrowser --yes
 
 #AVR related
 sudo apt install  gcc-avr binutils binutils-avr avrdude avr-libc gdb-avr  --yes
