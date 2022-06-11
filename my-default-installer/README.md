@@ -30,3 +30,14 @@ git config --global user.name "Your Name"
 ```
 Then go make a PAT (Personnal Access Token) for your PC here : https://github.com/settings/tokens
 and give it **repo** and **admin:repo_hook**.
+
+Then do your first commit so you'll be asked these credentials and git will remember them.
+
+## Other softs
+
+- Install **OwnCloud Client** "Desktop App" https://owncloud.com/desktop-app/
+    - If you take the AppImage, use the tool preinstalled "Startup Applications Preferences" and link to your AppImage
+- Install **VS.Code** from here https://code.visualstudio.com/
+
+
+
