@@ -14,6 +14,8 @@ git clone https://github.com/AlanFromJapan/linux-experiments.git
 And then let the magic happen:
 ```
 ./run-all.sh
+or
+./run-basics.sh
 ```
 
 ----
@@ -21,7 +23,7 @@ And then let the magic happen:
 # After install
 
 ## Git setup
-Remember your git credentials (in clear text so beware!)
+Remember your git credentials (in clear text so beware!). Alternate is to use https://github.com/GitCredentialManager/git-credential-manager !
 ```
 git config --global credential.helper store
 
