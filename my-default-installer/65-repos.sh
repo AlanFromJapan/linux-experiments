@@ -13,6 +13,10 @@ git clone https://github.com/AlanFromJapan/ipcampy.git ~/Git/ipcampy
 git clone -b master https://github.com/AlanFromJapan/ipcampy.nocv.git ~/Git/ipcampy.nocv
 git clone https://github.com/AlanFromJapan/GBReaper.git ~/Git/GBReaper
 #git clone https://github.com/AlanFromJapan/terraforming.git ~/Git/terraforming
+git clone https://github.com/AlanFromJapan/poke-trainer.git ~/Git/poke-trainer
+git clone https://github.com/AlanFromJapan/CodeDeLAvent2022.git ~/Git/CodeDeLAvent2022
+git clone https://github.com/AlanFromJapan/gbdk-sprite-exporter.git ~/Git/gbdk-sprite-exporter
+
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
