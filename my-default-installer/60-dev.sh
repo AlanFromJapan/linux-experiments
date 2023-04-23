@@ -32,6 +32,9 @@ echo "1) Get latest VS.code -> https://code.visualstudio.com/"
 read -n1 -s -r -p $'Press any key to continue...\n' key
 
 echo "2) Configure git to save your github credentials"
+echo "git config --global user.email \"you@example.com\" "
+echo "git config --global user.name \"Your Name\" "
+echo "git config --global credential.helper store"
 
 read -n1 -s -r -p $'Press any key to continue...\n' key
 
