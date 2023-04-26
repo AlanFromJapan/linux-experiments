@@ -14,6 +14,10 @@ echo "Install Ghostery or you favorite addblocker on Firefox"
 read -n1 -s -r -p $'Press any key to continue...\n' key
 
 
+echo "Set yourself a cool 2 lines bash prompt. Add this to .bashrc:"
+echo 'export PS1="╔\[\033[38;5;6m\]\u\[$(tput sgr0)\]@\[$(tput sgr0)\]\[\033[38;5;202m\]\h\[$(tput sgr0)\]-\[$(tput sgr0)\]\[\033[38;5;3m\][\[$(tput sgr0)\]\[\033[38;5;6m\]\w\[$(tput sgr0)\]\[\033[38;5;3m\]]\[$(tput sgr0)\]\n╚═>\[$(tput sgr0)\]\[\033[38;5;14m\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\]"'
+read -n1 -s -r -p $'Press any key to continue...\n' key
+
 
 
 
