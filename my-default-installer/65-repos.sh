@@ -17,6 +17,7 @@ git clone https://github.com/AlanFromJapan/poke-trainer.git ~/Git/poke-trainer
 git clone https://github.com/AlanFromJapan/CodeDeLAvent2022.git ~/Git/CodeDeLAvent2022
 git clone https://github.com/AlanFromJapan/gbdk-sprite-exporter.git ~/Git/gbdk-sprite-exporter
 git clone https://github.com/AlanFromJapan/GrblWebStreamer.git  ~/Git/GrblWebStreamer
+git clone https://github.com/AlanFromJapan/grbl2image.git ~/Git/grbl2image
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
