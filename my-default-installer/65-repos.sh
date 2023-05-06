@@ -30,3 +30,5 @@ git clone https://github.com/AlanFromJapan/CodingTrain.CodingChallenge.git ~/Git
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
 git clone https://github.com/mikeryan/ems-flasher ~/Git/ems-flasher
 
+#others
+git clone https://github.com/stefanhaustein/TerminalImageViewer.git ~/Git/TerminalImageViewer
