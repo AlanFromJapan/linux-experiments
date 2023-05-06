@@ -2,6 +2,11 @@
 
 mkdir -p ~/Git
 
+#the helper update-all script
+here=`dirname $0`
+
+cp $here/git-updateall.sh ~/Git/
+
 #my stuffs
 git clone https://github.com/AlanFromJapan/alanarduinotools.git ~/Git/alanarduinotools
 git clone https://github.com/AlanFromJapan/alanWebSites.git ~/Git/alanWebSites
@@ -18,6 +23,8 @@ git clone https://github.com/AlanFromJapan/CodeDeLAvent2022.git ~/Git/CodeDeLAve
 git clone https://github.com/AlanFromJapan/gbdk-sprite-exporter.git ~/Git/gbdk-sprite-exporter
 git clone https://github.com/AlanFromJapan/GrblWebStreamer.git  ~/Git/GrblWebStreamer
 git clone https://github.com/AlanFromJapan/grbl2image.git ~/Git/grbl2image
+git clone https://github.com/AlanFromJapan/CodingTrain.CodingChallenge.git ~/Git/CodingTrain.CodingChallenge
+
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
