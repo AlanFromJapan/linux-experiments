@@ -32,4 +32,11 @@ read -n1 -s -r -p $'Press any key to continue...\n' key
 
 
 
+echo "Did your Japanese keyboard works with MOZC but it got turned to a US keyboard layout?"
+echo "nano .config/mozc/ibus_config.textproto"
+echo "  Replace <layout>default</layout> by <layout>japanese</layout>"
+echo "  You can try adding the Japanese keyboard layout as alternate input, maybe helps or just a legend?"
+read -n1 -s -r -p $'Press any key to continue...\n' key
+
+
 echo "Finished!"
