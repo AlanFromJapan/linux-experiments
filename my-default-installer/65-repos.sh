@@ -24,7 +24,7 @@ git clone https://github.com/AlanFromJapan/gbdk-sprite-exporter.git ~/Git/gbdk-s
 git clone https://github.com/AlanFromJapan/GrblWebStreamer.git  ~/Git/GrblWebStreamer
 git clone https://github.com/AlanFromJapan/grbl2image.git ~/Git/grbl2image
 git clone https://github.com/AlanFromJapan/CodingTrain.CodingChallenge.git ~/Git/CodingTrain.CodingChallenge
-
+git clone https://github.com/AlanFromJapan/dungeon-adventurers.git ~/Git/dungeon-adventurers
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
