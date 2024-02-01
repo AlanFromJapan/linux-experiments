@@ -25,6 +25,7 @@ git clone https://github.com/AlanFromJapan/GrblWebStreamer.git  ~/Git/GrblWebStr
 git clone https://github.com/AlanFromJapan/grbl2image.git ~/Git/grbl2image
 git clone https://github.com/AlanFromJapan/CodingTrain.CodingChallenge.git ~/Git/CodingTrain.CodingChallenge
 git clone https://github.com/AlanFromJapan/dungeon-adventurers.git ~/Git/dungeon-adventurers
+git clone https://github.com/AlanFromJapan/GameboyClock.git ~/Git/GameboyClock
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
