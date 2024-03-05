@@ -8,6 +8,10 @@ echo "#################################################################"
 
 sudo apt install gerbv --yes
 
+#Sparkfun libs very useful
+git clone https://github.com/sparkfun/SparkFun-Eagle-Libraries.git ~/Git/SparkFun-Eagle-Libraries
+
+
 #now go "Do nothing" mode
 echo "#################################################################"
 echo "##                                                             ##"
