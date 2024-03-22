@@ -10,6 +10,7 @@ sudo apt install gerbv --yes
 
 #Sparkfun libs very useful
 git clone https://github.com/sparkfun/SparkFun-Eagle-Libraries.git ~/Git/SparkFun-Eagle-Libraries
+git clone https://github.com/sparkfun/SparkFun-KiCad-Libraries.git ~/Git/SparkFun-KiCad-Libraries
 
 
 #now go "Do nothing" mode
