@@ -17,7 +17,7 @@ sudo apt install wine32 wine64 --yes
 echo "#################################################################"
 #udev rules -> https://spun.io/2018/07/04/using-the-xgecu-tl866ii-plus-under-linux-with-wine/
 echo "Creating UDEV rules for the TL866II EEPROM writer/reader"
-sudo echo 'SUBSYSTEMS=="usb", ATTRS{idVendor}=="a466", ATTRS{idProduct}=="0a53", GROUP="plugdev", MODE="0666"' > /etc/udev/rules.d/51-minipro-TL866ii.rules && sudo udevadm trigger
+echo 'SUBSYSTEMS=="usb", ATTRS{idVendor}=="a466", ATTRS{idProduct}=="0a53", GROUP="plugdev", MODE="0666"' | sudo tee /etc/udev/rules.d/51-minipro-TL866ii.rules && sudo udevadm trigger
 
 #now go "Do nothing" mode
 echo "#################################################################"
