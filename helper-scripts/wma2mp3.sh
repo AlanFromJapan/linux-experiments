@@ -18,7 +18,7 @@ for f in $(find $1 -name *.wma); do
 	if [ -f "$f" ]; then
 		ffmpeg -i "$f" -q:a 0 -map a "${f[@]/%wma/mp3}"
 		#delete the original file if the conversion was successful only
-		[ $status -eq 0 ] && rm -f $f
+		[ $? -eq 0 ] && rm -f $f
 		echo "==================================================================================="
 	fi
 done
