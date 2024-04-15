@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Arduino
+Comment=Arduino dev env
+Exec=/usr/local/dev/arduino/arduino-ide_2.2.1_Linux_64bit/arduino-ide
+Icon=/usr/local/dev/arduino/arduino-ide_2.2.1_Linux_64bit/resources/app/resources/icons/512x512.png
+Terminal=false
+Type=Application
+Categories=Development

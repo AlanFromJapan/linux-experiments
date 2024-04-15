@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=ZMQ Uploader
+Comment=THe ZMQ uploader
+Exec=/home/alan/Git/zeromq-simplestorage/zmq-uploader/run.sh
+Icon=/home/alan/Git/zeromq-simplestorage/zmq-uploader/1713168171174zrk6lyye.png
+Terminal=true
+Type=Application
+Categories=Development

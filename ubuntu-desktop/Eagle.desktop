@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Eagle
+Comment=Eagle PCB
+Exec=/usr/local/dev/eagle-9.5.2/eagle
+Icon=/usr/local/dev/eagle-9.5.2/bin/eagle-logo.png
+Terminal=false
+Type=Application
+Categories=Development
