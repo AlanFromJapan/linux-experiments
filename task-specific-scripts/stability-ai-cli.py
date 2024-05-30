@@ -19,12 +19,12 @@ response = requests.post(
     files={"none": ''},
     data={
         "prompt": str(sys.argv[1]),
-        "output_format": "png",
+        "output_format": "jpeg",
     },
 )
 
 if response.status_code == 200:
-    with open("./stability-ai-output.png", 'wb') as file:
+    with open("./stability-ai-output.jpg", 'wb') as file:
         file.write(response.content)
 else:
     raise Exception(str(response.json()))

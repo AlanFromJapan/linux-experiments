@@ -27,6 +27,7 @@ git clone https://github.com/AlanFromJapan/CodingTrain.CodingChallenge.git ~/Git
 git clone https://github.com/AlanFromJapan/dungeon-adventurers.git ~/Git/dungeon-adventurers
 git clone https://github.com/AlanFromJapan/GameboyClock.git ~/Git/GameboyClock
 git clone https://github.com/AlanFromJapan/zeromq-simplestorage.git ~/Git/zeromq-simplestorage
+git clone https://github.com/AlanFromJapan/QRScanner.git ~/Git/QRScanner
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
