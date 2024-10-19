@@ -14,7 +14,7 @@ git clone https://github.com/AlanFromJapan/Gameboy.git ~/Git/Gameboy
 git clone https://github.com/AlanFromJapan/pcb-design.git ~/Git/pcb-design
 git clone https://github.com/AlanFromJapan/linux-experiments.git ~/Git/linux-experiments
 git clone https://github.com/AlanFromJapan/MTGA-experiments.git ~/Git/MTGA-experiments
-git clone https://github.com/AlanFromJapan/ipcampy.git ~/Git/ipcampy
+#git clone https://github.com/AlanFromJapan/ipcampy.git ~/Git/ipcampy
 git clone -b master https://github.com/AlanFromJapan/ipcampy.nocv.git ~/Git/ipcampy.nocv
 git clone https://github.com/AlanFromJapan/GBReaper.git ~/Git/GBReaper
 #git clone https://github.com/AlanFromJapan/terraforming.git ~/Git/terraforming
@@ -29,6 +29,11 @@ git clone https://github.com/AlanFromJapan/GameboyClock.git ~/Git/GameboyClock
 git clone https://github.com/AlanFromJapan/zeromq-simplestorage.git ~/Git/zeromq-simplestorage
 git clone https://github.com/AlanFromJapan/QRScanner.git ~/Git/QRScanner
 git clone https://github.com/AlanFromJapan/AtomicClockTimeManager.git ~/Git/AtomicClockTimeManager
+git clone https://github.com/AlanFromJapan/seyes-wordlist.git ~/Git/seyes-wordlist
+git clone https://github.com/AlanFromJapan/dictee-tor.git ~/Git/dictee-tor
+git clone https://github.com/AlanFromJapan/MorningMetroMonitor.git ~/Git/MorningMetroMonitor
+git clone https://github.com/AlanFromJapan/MinimalHttpsRedirect.git ~/Git/MinimalHttpsRedirect
+
 
 #gameboy dev related
 git clone https://github.com/andreasjhkarlsson/gbdk-n.git ~/Git/gbdk-n
