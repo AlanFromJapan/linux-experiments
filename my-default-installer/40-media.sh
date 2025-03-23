@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install vlc --yes
+sudo apt install vlc qbittorrent --yes
