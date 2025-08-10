@@ -9,7 +9,7 @@ echo "##  future me. Just do as it says.                             ##"
 echo "##                                                             ##"
 echo "#################################################################"
 
-echo "CANON PRINTER: download the drivers and install -> https://cweb.canon.jp/drv-upd/lasershot/linux/lipslxlinux.html"
+echo "CANON PRINTER: download the CARPS2 (!) drivers and install -> https://canon.jp/support/software/os/select/ir/linux-lipslx-drv-v590-jp-03tar-1"
 
 read -n1 -s -r -p $'Press any key to continue...\n' key
 
