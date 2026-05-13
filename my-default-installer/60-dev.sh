@@ -10,7 +10,7 @@ sudo usermod -a -G dialout $USER
 
 
 #AVR related
-sudo apt install  gcc-avr binutils binutils-avr avrdude avr-libc gdb-avr  --yes
+sudo apt install  gcc-avr binutils binutils-avr avrdude avr-libc gdb-avr avra --yes
 
 #GB dev related
 sudo apt install  sdcc visualboyadvance --yes
